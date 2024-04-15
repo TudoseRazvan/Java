@@ -1,0 +1,5 @@
+SV,10.00 lei
+BZ,10.00 lei
+TM,12.00 lei
+B-,20.00 lei
+IF,12.00 lei
